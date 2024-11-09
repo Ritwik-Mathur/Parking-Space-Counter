@@ -8,7 +8,7 @@ Parking Space Counter made using OpenCV and Python
 
 ## Step 1: Clone the repository
 ```
-git clone https://github.com/pragya757/Carparking_space-counter
+git clone https://github.com/Ritwik-Mathur/Parking-Space-Counter
 ```
 
 ## Step 2: locate and change directory
